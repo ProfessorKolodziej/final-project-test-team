@@ -108,6 +108,7 @@
   },
   "dependencies": {
     "normalize.css": "^8.0.1",
+    "spotify-web-api-node": "^5.0.2",
     "webpack-dev-server": "^4.0.0"
   }
 }
